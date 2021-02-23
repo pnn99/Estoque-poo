@@ -1,0 +1,16 @@
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/Estoque
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/Estoque.deps.json
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/Estoque.runtimeconfig.json
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/Estoque.runtimeconfig.dev.json
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/Estoque.dll
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/ref/Estoque.dll
+/home/paulo/AEDs/Udemy/Estoque/bin/Debug/net5.0/Estoque.pdb
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.csprojAssemblyReference.cache
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.AssemblyInfoInputs.cache
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.AssemblyInfo.cs
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.dll
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/ref/Estoque.dll
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.pdb
+/home/paulo/AEDs/Udemy/Estoque/obj/Debug/net5.0/Estoque.genruntimeconfig.cache
